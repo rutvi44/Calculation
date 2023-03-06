@@ -1,16 +1,4 @@
-﻿/*
- * In Class task 2
- * 
- * Purpose : To take input from user and calculate it
- * Name: Rutvi Mistry
- * Date: Jan-28-2023
- * Q.What happens if the user does not enter a number?
- * A. When user does not enter a number then programm will not run, it will stop immediately and program will show an error to the user.
- * Q.What possible errors can happen with running the code as you have designed it?
- * A.If user put any word or ane letters then program will not run.
- * Q.What do you think would be a better approach or possible additions?
- * A.This program is for two digits number additionally i will make it as this program for three didgit as well.
-*/
+
 using System;
 using System.Collections.Generic; 
 using System.Linq;
