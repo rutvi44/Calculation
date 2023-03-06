@@ -1,0 +1,16 @@
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\bin\Debug\inClass2.exe.config
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\bin\Debug\inClass2.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\bin\Debug\inClass2.pdb
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\obj\Debug\inClass2.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\obj\Debug\inClass2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\obj\Debug\inClass2.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\obj\Debug\inClass2.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inClass2\inClass2\obj\Debug\inClass2.pdb
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\bin\Debug\inClass2.exe.config
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\bin\Debug\inClass2.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\bin\Debug\inClass2.pdb
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\obj\Debug\inClass2.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\obj\Debug\inClass2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\obj\Debug\inClass2.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\obj\Debug\inClass2.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\In class assignment\inclass 2\inClass2\inClass2\obj\Debug\inClass2.pdb
